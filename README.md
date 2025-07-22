@@ -1,3 +1,6 @@
 # LinuxSite
-A single Wikipedia-like web page where you can navigate within the page, via a menu that takes you to the right chapter. The CSS Animate library was also used to animate the team crest.<br><br>
-![WikiJuve_webpage](images/WikiJuve.png)
+A site, with multiple HTML pages, created in the free time that brings together all the features of Linux with even a hint of the main languages, supported by this OS and with a video of Linus Torvald, the creator of Linux.<br><br>
+![LinuxSite_homepage](images/Homepage.png)
+![LinuxSite_summary](images/Summary.png)
+![LinuxSite_Conferencing](images/Conferencing.png)
+![LinuxSite_opinion](images/Opinion.png)
